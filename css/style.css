@@ -552,8 +552,16 @@ section{
     letter-spacing: 0.02em;
     color: #fff;
 margin-bottom: 16px;
+font-weight: 500px;
+color: #ffffff;
+}
+
+.text-foot{margin-bottom: 16px;
+    font-weight: 500;
+    color: #ffffff;
 
 }
+
 
 .footer-form {display: flex;
     gap: 24px;
