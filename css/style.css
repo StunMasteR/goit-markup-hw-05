@@ -448,6 +448,7 @@ font-weight: 400;
     letter-spacing: 0.02em;
     color: #F4F4FD;
     max-width: 264px;
+    
 }
 
     .studio-spa{color: #2e2f42;
@@ -544,11 +545,12 @@ section{
 .footer-input {margin-left: 80px;
 }
 
-.footer-sub {margin-bottom: 16px;
+.footer-p {margin-bottom: 16px;
     font-weight: 500;
-    line-height: 1.5;
     letter-spacing: 0.02em;
+    line-height: 1.5;
     color: #fff;
+    font-size: 16px;
 }
 
 .footer-form {display: flex;
@@ -558,27 +560,27 @@ section{
 }
 
 
-.mod-input top{box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    border: 1px solid #fff;
+.foot-input{box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
     border-radius: 4px;
-    width: 264px;
+border: 1px solid #ffffff;
     height: 40px;
     padding-left: 16px;
     padding-right: 16px;
     background-color: transparent;
     font-weight: 400;
     font-size: 12px;
-    line-height: 2;
+line-height: 2;
     letter-spacing: 0.04em;
     color: #fff;
+    width: 264px;
 }
 
-.mod-input top::placeholder {
+.foot-input::placeholder {
     font-weight: 400;
     font-size: 12px;
     line-height: 2;
     letter-spacing: 0.04em;
-    color: #fff;
+    color: #ffffff;
 }
 
 
@@ -610,6 +612,7 @@ section{
 .btn-icon {fill: #f4f4fd;
     margin-left: 16px;
 }
+
 
 
 .modal-overlay {background-color: rgba(46, 47, 66, 0.4);
@@ -678,12 +681,13 @@ section{
 .mod-button:focus.mod-icon {
     background-color: #404BBF;
     border: none;
-    fill: #ffffff;
+fill: #ffffff;
 }
 .mod-button:hover,
 .mod-button:focus {
     background-color: #404BBF;
     border: none;
+    fill: #ffffff;
 }
 .mod-over {font-weight: 500;
     font-size: 16px;
@@ -695,6 +699,9 @@ section{
 }
 
 .form-field {margin-bottom: 8px;
+}
+
+.comment{margin-bottom: 16px
 }
 
 .form-label {display: block;
