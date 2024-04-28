@@ -691,9 +691,13 @@ line-height: 2;
 }
 
 .mod-icon:hover{fill: #ffffff;
+        background-color: #404BBF;
+            border: none;
 }
 .mod-icon:focus{
 fill: #ffffff;
+    background-color: #404BBF;
+        border: none;
 }
 
 .modal-button:hover .mod-icon,
