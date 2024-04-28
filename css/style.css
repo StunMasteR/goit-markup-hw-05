@@ -704,9 +704,14 @@ fill: #ffffff;
 .mod-button:hover {
     background-color: #404BBF;
     border: none;
-}
+        fill: #ffffff;
+    }
 
-.mod-button:focus{fill: #ffffff;
+.mod-button:focus{
+        background-color: #404BBF;
+            border: none;
+    
+    fill: #ffffff;
 
 }
 
