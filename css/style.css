@@ -701,12 +701,15 @@ fill: #ffffff;
     border: none;
 fill: #ffffff;
 }
-.mod-button:hover,
-.mod-button:focus {
+.mod-button:hover {
     background-color: #404BBF;
     border: none;
+}
+
+.mod-button:focus{fill: #ffffff;
 
 }
+
 .mod-over {font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
