@@ -868,4 +868,5 @@ fill: #ffffff;
 .submit-button:hover,
 .submit-button:focus {
     background-color: #404bbf;
+        fill: #ffffff;
 }
