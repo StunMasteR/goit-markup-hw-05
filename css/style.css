@@ -563,6 +563,7 @@ color: #ffffff;
 }
 
 
+
 .footer-form {display: flex;
     gap: 24px;
     justify-content: space-between;
@@ -702,6 +703,7 @@ fill: #ffffff;
 .mod-button:focus {
     background-color: #404BBF;
     border: none;
+fill: #ffffff;
 }
 .mod-over {font-weight: 500;
     font-size: 16px;
